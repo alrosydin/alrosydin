@@ -1,0 +1,4 @@
+Login admin:
+admin@gmail.com pass: 123
+Login op:
+operator@gmail.com pass: abc
